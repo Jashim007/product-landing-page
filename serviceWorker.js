@@ -1,5 +1,5 @@
 const CACHE_NAME = "clipboard-version-v1";
-const urlsToCache = ["/"];
+const urlsToCache = ["/product-landing-page"];
 self.addEventListener("install", function (event) {
   event.waitUntil(
     caches.open(CACHE_NAME).then(function (cache) {
