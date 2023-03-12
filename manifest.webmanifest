@@ -23,8 +23,8 @@
   "background_color": "#000000",
   "display": "standalone",
   "lang": "en-US",
-  "id": "http://127.0.0.1:5501/index.html",
-  "start_url": "/",
-  "scope": "/",
+  "id": "https://jashim007.github.io/product-landing-page/",
+  "start_url": "/product-landing-page/",
+  "scope": "/product-landing-page/",
   "description": "Product landing page for clipboard."
 }
